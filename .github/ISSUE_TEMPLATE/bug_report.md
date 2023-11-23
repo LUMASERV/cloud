@@ -6,8 +6,6 @@ assignees: ''
 
 ---
 
-![](https://lumaserv.com/assets/img/logo.svg)
-
 **Describe the bug**
 A clear and concise description of what the bug is.
 
