@@ -1,2 +1,3 @@
-# cloud
-LUMASERV Cloud Issue Tracker
+![](https://lumaserv.com/assets/img/logo.svg)
+
+# LUMASERV Cloud Issue Tracker
